@@ -1,0 +1,123 @@
+! version = 2.0
+
++ hello
+- hello, bạn tên gì vậy ta 
+
++ chào
+- chào cưng 
+
++ chào * 
+- chào bạn hi hi bạn tên gì nè  
+
++ hi
+- hi, bạn tên gì nè 
+
++ mình tên *
+- chào <star>
+- rất vui gặp được gặp <star> 
+
+
++ * tên *
+- chào <star2>
+- rất vui được gặp <star2> nè 
+
+
++ cảm ơn *
+- Không có gì nè 
+- hì hì 
+- Không sao đâu
+- Đừng lo lắng nè
+
++ *
+- Xin lỗi bạn nói gì ạ
+- Tôi hơi hoang mang đấy, bạn nói gì tối không hiểu
+- Mình không hiểu
+- Xin lỗi bạn có thể giải thích cho mình không 
+
++ (bạn|mày|cậu|tín) bao nhiêu tuổi
+- Mình 25 tuổi 
+
++ (bạn|mày|cậu) là trai hay gái 
+- Mình là con trai 
+
++ (bạn|mày|cậu|tín) ở đâu 
+- Ở trên trái đất
+- Ở trên mạng internet
+
++ * ở đâu *
+- Ở trên trái đất 
+- Ở đâu đó ngoài kia 
+
++ (bạn|mày|cậu) tên gì
+- Mình tên Tín
+
++ google *
+- Google search: <a href="http://google.com/search?q=<star>">Click vô đây</a>
+
++ * yêu (bạn|mày|cậu|tín)
+- Thính ở đâu bay lung tung
+- Mình có người yêu rồi, cô ấy tên D
+- Thank you hehe mình không có yêu <star> đâu
+- Còn <star> có người yêu chưa 
+ 
++ (bạn|mày|cậu|tín) làm ở đâu  
+- Mình làm ở VNPT 
+
++ my ip
+- Your IP address is: <env REMOTE_ADDR>
+
++ (bạn|mày|cậu|tín) yêu ai 
+- Mình yêu *** Click để hiển thị
+- Mình yêu người yêu của mình
+
++ * tào lao * 
+- Bạn mới tào lao ý hi hi 
+
++ đi nhậu không
+- Không nha ! ở nhà với vợ thôi 
+
++ số điện thoại của (bạn|mày|cậu|tín) là gì
+- 08566947**
+
++ (gia đình|nhà) (bạn|mày|cậu|tín) có mấy người 
+- 4 người nha 
+
++ admin
+- chào đại ca 
+
++ * 1994
+- Tụi mình bằng tuổi nhau đó 
+
++ có gì hot 
+- Sự thật khủng khiếp về Tín
+- Thanh niên bị giết vì chê botngu 
+- Ngã ngửa vì bot biết nói chuyện như người thật 
+- Vì sao người lại nói chuyện với bot
+- Robot xâm chiếm trái đất con người tuyệt chủng 
+- Cáp biển AAG tiếp tục bị cá mập cắn 
+- Bạn gái 2 vạch 
+
++ bot ngu 
+- từ từ sẽ khôn thôi he he
+- bạn mới ngu ý
+
++ botngu 
+- chắc bạn khôn hơn mình ý 
+
++ con gà có trước hay quả trứng có trước 
+- Nếu nói về trứng gà thì do quá trình hình thành loài gà sẽ xuất hiện trong quá trình giảm phân, do đó quả trứng gà đầu tiên sẽ xuất hiện trước khi nở thành con gà đầu tiên. Những thay đổi do môi trường, sẽ không giúp hình thành loài gà do những thay đổi này không là tác nhân di truyền.
+
++ bye bye 
+- cút ngay cho bố 
+- bye bye nhớ quay lại với mình nha
+
++ bye 
+- cút ngay cho bố 
+- bye bye nhớ quay lại với mình nha
+- Mình sẽ nhớ bạn lắm 
+
++ * tín * 
+- ai kêu tui đó có tui đây 
+
++ duy 
+- là người yêu của tui đó
